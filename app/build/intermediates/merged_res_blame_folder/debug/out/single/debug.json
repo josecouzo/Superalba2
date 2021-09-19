@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/menu_menu_scrolling.xml.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/menu/menu_scrolling.xml"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/layout_bottom_bar.xml.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/layout/bottom_bar.xml"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/layout_content_scrolling.xml.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/layout/content_scrolling.xml"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/layout-w936dp_content_scrolling.xml.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/layout-w936dp/content_scrolling.xml"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/layout_activity_layout_base.xml.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/layout/activity_layout_base.xml"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/layout-w1240dp_content_scrolling.xml.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/layout-w1240dp/content_scrolling.xml"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/drawable_ic_shopping_cart.xml.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/drawable/ic_shopping_cart.xml"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/layout_activity_scrolling.xml.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/layout/activity_scrolling.xml"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/drawable_view_front.xml.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/drawable/view_front.xml"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/eduardo/AndroidStudioProjects/Superalba2/app/build/intermediates/merged_res/debug/drawable_ic_menu.xml.flat",
+        "source": "/home/eduardo/AndroidStudioProjects/Superalba2/app/src/main/res/drawable/ic_menu.xml"
+    }
+]
